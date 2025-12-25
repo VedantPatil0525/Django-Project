@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+  Services
+{% endblock title %}
+  
+
+{% block body %}
+
+<div class="container mt-5">
+
+  <div class="text-center mb-5">
+    <h2>Our Services</h2>
+    <p class="text-muted">Complete Interior & Construction Solutions</p>
+  </div>
+
+  <!-- Interior Designing -->
+  <div class="row mb-5">
+    <div class="col-md-6">
+      <img src="/static/images/service_interior.avif" class="img-fluid rounded">
+    </div>
+    <div class="col-md-6">
+      <h4>Interior Designing</h4>
+      <p>
+        We offer creative and functional interior design solutions tailored
+        to your lifestyle and business needs.
+      </p>
+      <ul>
+        <li>Residential & Commercial Interiors</li>
+        <li>Modular Kitchen & Wardrobe Design</li>
+        <li>3D Design & Space Planning</li>
+        <li>Bedroom, Living Room & Office Design</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Civil Work Consultation -->
+  <div class="row mb-5 flex-row-reverse">
+    <div class="col-md-6">
+      <img src="/static/images/service_civil.avif" class="img-fluid rounded">
+    </div>
+    <div class="col-md-6">
+      <h4>Civil Work Consultation</h4>
+      <p>
+        We provide expert guidance for construction, renovation, and
+        remodeling projects to ensure quality and efficiency.
+      </p>
+      <ul>
+        <li>Renovation & Remodeling Guidance</li>
+        <li>Material & Cost Estimation</li>
+        <li>Structural Planning Support</li>
+        <li>Site Inspection & Quality Checks</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Home Decor Consultation -->
+  <div class="row mb-5">
+    <div class="col-md-6">
+      <img src="/static/images/service_decor.avif" class="img-fluid rounded">
+    </div>
+    <div class="col-md-6">
+      <h4>Home Decor Consultation</h4>
+      <p>
+        Enhance the beauty of your space with expert decor advice that
+        complements your interior design.
+      </p>
+      <ul>
+        <li>Color & Theme Selection</li>
+        <li>Furniture & Lighting Suggestions</li>
+        <li>Wall Art & Decorative Styling</li>
+        <li>Budget-Friendly Decor Planning</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Call to Action -->
+  <div class="text-center">
+    <h5>Have a project in mind?</h5>
+    <a href="/contact" class="btn btn-primary mt-2 mb-4">Get in Touch</a>
+  </div>
+
+</div>
+
+
+{% endblock body %}

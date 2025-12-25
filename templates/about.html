@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+  About
+{% endblock title %}
+  
+
+{% block body %}
+
+<div class="container mt-5">
+
+  <!-- About Header -->
+  <div class="text-center mb-4">
+    <h2>About Us</h2>
+    <p class="text-muted">Inside Style Interior Designer & Contractor</p>
+  </div>
+
+  <!-- Company Introduction -->
+  <div class="row mb-4">
+    <div class="col-md-6">
+      <img src="/static/images/about_image.avif" class="img-fluid rounded" alt="About Us">
+    </div>
+    <div class="col-md-6">
+      <h4>Who We Are</h4>
+      <p>
+        We are a professional Interior Designer & Contractor firm specializing in
+        residential and commercial interior solutions. Our designs blend creativity,
+        functionality, and modern aesthetics to transform spaces into elegant living
+        environments.
+      </p>
+    </div>
+  </div>
+
+  <!-- Vision & Mission -->
+  <div class="row mb-4">
+    <div class="col-md-6">
+      <h5>Our Vision</h5>
+      <p>
+        To become a trusted interior design brand known for innovative designs,
+        quality workmanship, and customer satisfaction.
+      </p>
+    </div>
+    <div class="col-md-6">
+      <h5>Our Mission</h5>
+      <ul>
+        <li>Deliver high-quality interior solutions</li>
+        <li>Use modern design and construction practices</li>
+        <li>Ensure timely project completion</li>
+        <li>Maintain transparency and trust</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Why Choose Us -->
+  <div class="mb-4">
+    <h4>Why Choose Us</h4>
+    <ul>
+      <li>Experienced Designers & Skilled Contractors</li>
+      <li>End-to-End Interior Solutions</li>
+      <li>Premium Quality Materials</li>
+      <li>On-Time Project Delivery</li>
+      <li>Customer-Centric Approach</li>
+    </ul>
+  </div>
+
+  <!-- Call to Action -->
+  <div class="text-center mt-5">
+    <h5>Ready to transform your space?</h5>
+    <a href="/contact" class="btn btn-primary mt-2 mb-4">Contact Us</a>
+  </div>
+
+</div>
+
+{% endblock body %}
