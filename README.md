@@ -9,34 +9,28 @@ This website provides an online presence for an interior design and contracting 
 
 ✨ Features
 
-1. Responsive navigation bar with dropdown services
-2. Home page with image carousel and design cards
-3. About Us page with company overview
-4. Services section for Interior, Civil, and Decor consultation
-5. Contact form with database storage
-6. Django Admin panel for managing inquiries
+1. Responsive navigation bar with dropdown services.
+2. Home page with image carousel and design cards.
+3. About Us page with company overview.
+4. Services section for Interior, Civil, and Decor consultation.
+5. Contact form with database storage.
+6. Django Admin panel for managing inquiries.
 
 
 🧑‍💻 Technologies Used
 
-Frontend: HTML5, CSS3, BOOTSTRAP  
-
-Backend: Python, Django Framework
-
-Database: SQLite (Django default)
+1. Frontend: HTML5, CSS3, BOOTSTRAP  
+2. Backend: Python, Django Framework
+3. Database: SQLite (Django default)
 
 
 🚀 Future Enhancements
 
-a. Make Services dynamic using Django models
-
-b. Add quotation request functionality
-
-c. Add testimonials and client reviews
-
-d. Integrate email notifications
-
-e. Improve UI with animations
+a. Make Services dynamic using Django models.
+b. Add quotation request functionality.
+c. Add testimonials and client reviews.
+d. Integrate email notifications.
+e. Improve UI with animations.
 
 
 👨‍🎓 Author
