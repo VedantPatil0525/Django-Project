@@ -35,6 +35,8 @@ This website provides an online presence for an interior design and contracting 
 
 👨‍🎓 Author
 
-Vedant Patil,
-AI & Data Science Engineering Student,
+Vedant Patil
+
+AI & Data Science Engineering Student
+
 Aspiring AI / Data Science / Machine Learning / Full-Stack Developer
