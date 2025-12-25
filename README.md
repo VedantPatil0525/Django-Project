@@ -10,15 +10,10 @@ This website provides an online presence for an interior design and contracting 
 ✨ Features
 
 1. Responsive navigation bar with dropdown services
-
 2. Home page with image carousel and design cards
-
 3. About Us page with company overview
-
 4. Services section for Interior, Civil, and Decor consultation
-
 5. Contact form with database storage
-
 6. Django Admin panel for managing inquiries
 
 
