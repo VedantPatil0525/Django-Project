@@ -26,17 +26,15 @@ This website provides an online presence for an interior design and contracting 
 
 🚀 Future Enhancements
 
-a. Make Services dynamic using Django models.
-b. Add quotation request functionality.
-c. Add testimonials and client reviews.
-d. Integrate email notifications.
-e. Improve UI with animations.
+1. Make Services dynamic using Django models.
+2. Add quotation request functionality.
+3. Add testimonials and client reviews.
+4. Integrate email notifications.
+5. Improve UI with animations.
 
 
 👨‍🎓 Author
 
 Vedant Patil
-
 AI & Data Science Engineering Student
-
 Aspiring AI / Data Science / Machine Learning / Full-Stack Developer
