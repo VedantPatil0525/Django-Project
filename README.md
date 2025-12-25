@@ -21,9 +21,10 @@ This website provides an online presence for an interior design and contracting 
 
 6. Django Admin panel for managing inquiries
 
+
 🧑‍💻 Technologies Used
 
-1. Frontend
+Frontend
 
 a. HTML5
 
@@ -31,15 +32,16 @@ b. CSS3
 
 c. Bootstrap
 
-2. Backend
+Backend
 
 a. Python
 
 b. Django Framework
 
-3. Database
+Database
 
 a. SQLite (Django default)
+
 
 🚀 Future Enhancements
 
@@ -52,6 +54,7 @@ c. Add testimonials and client reviews
 d. Integrate email notifications
 
 e. Improve UI with animations
+
 
 👨‍🎓 Author
 
