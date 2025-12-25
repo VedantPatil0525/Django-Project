@@ -24,23 +24,11 @@ This website provides an online presence for an interior design and contracting 
 
 🧑‍💻 Technologies Used
 
-Frontend
+Frontend: HTML5, CSS3, BOOTSTRAP  
 
-a. HTML5
+Backend: Python, Django Framework
 
-b. CSS3
-
-c. Bootstrap
-
-Backend
-
-a. Python
-
-b. Django Framework
-
-Database
-
-a. SQLite (Django default)
+Database: SQLite (Django default)
 
 
 🚀 Future Enhancements
@@ -59,5 +47,7 @@ e. Improve UI with animations
 👨‍🎓 Author
 
 Vedant Patil
+
 AI & Data Science Engineering Student
+
 Aspiring AI / Data Science / Machine Learning / Full-Stack Developer
